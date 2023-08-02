@@ -9,9 +9,8 @@ Curated repository of cybersecurity and data privacy news
 
 ## Top Articles
 
-1. [Article 1: Introduction to Cybersecurity](https://www.example.com/article1)
-2. [Article 2: Best Practices for Data Privacy](https://www.example.com/article2)
-3. [Article 3: Common Cyber Threats](https://www.example.com/article3)
+1. [Article 1: Cybercriminals train AI chatbots for phishing, malware attacks]([https://www.example.com/article1](https://www.bleepingcomputer.com/news/security/cybercriminals-train-ai-chatbots-for-phishing-malware-attacks/?utm_source=tldrai))
+
 
 ## Privacy Tools
 
