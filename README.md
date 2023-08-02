@@ -9,7 +9,7 @@ Curated repository of cybersecurity and data privacy news
 
 ## Top Articles
 
-1. [Article 1: Cybercriminals train AI chatbots for phishing, malware attacks]([https://www.example.com/article1](https://www.bleepingcomputer.com/news/security/cybercriminals-train-ai-chatbots-for-phishing-malware-attacks/?utm_source=tldrai)
+1. [Article 1: Cybercriminals train AI chatbots for phishing, malware attacks](https://www.bleepingcomputer.com/news/security/cybercriminals-train-ai-chatbots-for-phishing-malware-attacks/?utm_source=tldrai)
 
 
 ## Privacy Tools
