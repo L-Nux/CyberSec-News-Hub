@@ -20,7 +20,7 @@ Curated repository of cybersecurity and data privacy news
 
 ## Projects
 
-- [Personal Data Pollution: ](https://codeberg.org/alicewatson/personal-data-pollution.git)
+- [Personal Data Pollution](https://codeberg.org/alicewatson/personal-data-pollution.git)
 - 
 ## Featured Blogs
 
