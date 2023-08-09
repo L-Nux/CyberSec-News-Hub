@@ -10,6 +10,7 @@ Curated repository of cybersecurity and data privacy news
 ## Top Articles
 
 1. [Article 1: Cybercriminals train AI chatbots for phishing, malware attacks](https://www.bleepingcomputer.com/news/security/cybercriminals-train-ai-chatbots-for-phishing-malware-attacks/?utm_source=tldrai)
+2. [Article 2: Open source framework aims to standardize security data](https://betanews.com/2023/08/08/open-source-framework-aims-to-standardize-security-data/?utm_source=tldrcybersecurity)
 
 
 ## Privacy Tools
